@@ -35,10 +35,17 @@ Vim-like tools, resources and extensions.
 
 ## Web Browser
 
-- [qutebrowser](https://www.qutebrowser.org/) - a keyboard-driven, vim-like browser.
-- [vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en) - The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim for Google Chrome.
-- [vimari](https://github.com/guyht/vimari) - Safari port of vimium.
 - [wasavi](http://appsweets.net/wasavi/) - vi editor for any web page.
+
+### Apps
+- [qutebrowser](https://www.qutebrowser.org/) - a keyboard-driven, vim-like browser.
+
+
+### Google Chrome
+- [vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en) - The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim.
+
+### Safari
+- [vimari](https://github.com/guyht/vimari) - Safari port of vimium.
 
 ## License
 
