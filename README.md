@@ -2,6 +2,13 @@
 
 Vim-like tools, resources and extensions.
 
+## Table of Contents
+
+- [Code Editors](#code-editors)
+- [Terminal](#terminal)
+- [Web Browser](#web-browser)
+- [License](#license)
+
 ## Code Editors
 
 ### Atom
