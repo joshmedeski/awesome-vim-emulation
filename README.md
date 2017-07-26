@@ -34,3 +34,9 @@ Vim-like tools, resources and extensions.
 - [vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en) - The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim for Google Chrome.
 - [vimari](https://github.com/guyht/vimari) - Safari port of vimium.
 - [wasavi](http://appsweets.net/wasavi/) - vi editor for any web page.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Josh Medeski](http://joshmedeski.com/) has waived all copyright and related or neighboring rights to this work.
